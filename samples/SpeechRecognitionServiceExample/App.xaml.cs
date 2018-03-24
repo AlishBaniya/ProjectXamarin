@@ -37,7 +37,7 @@ namespace Microsoft.CognitiveServices.SpeechRecognition
     using System.Windows;
 
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Interaction logic for App.xam
     /// </summary>
     public partial class App : Application
     {
